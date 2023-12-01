@@ -56,9 +56,6 @@
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/58eba514-26a0-4630-9e1f-d88fac778135)
 
 
-## 샘플 코드 및 실행 방법
-
-
 ## 프로젝트 컨벤션
 
 ### 스크럼 및 코어타임
