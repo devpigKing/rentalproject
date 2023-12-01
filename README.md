@@ -1,15 +1,15 @@
 
 
-### 📌 :: 프로젝트 소개 ::
+## 📌 :: 프로젝트 소개 ::
 <br>
 - 경제적으로 여유가 많지 않은 자취생들에게 보증금과 소정의 대여료를 통해 가전 등의 제품을 빌려주는 "가전 제품 대여 플랫폼"입니다.
 
-### 📌 :: 개발 환경 ::
-<br>
+## 📌 :: 개발 환경 ::
+
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/3d8f9936-357a-4d28-8572-63ce47e70aae)
 
 
-### 🛠️ 기술 스택
+## 🛠️ 기술 스택
   <br>
 **Evironment**
 <br>
@@ -34,25 +34,25 @@
   <br>
 
 
-### 📌 :: 팀 구성 및 역할 ::
+## 📌 :: 팀 구성 및 역할 ::
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/dae35041-0240-4e64-bafb-e609057c72db)
 
 
-### 📌 :: 수행절차 및 방법 ::
+## 📌 :: 수행절차 및 방법 ::
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/2954f1a1-30eb-47ac-8b8f-28056afbeda6)
 
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/c0d159c9-218d-4728-927e-c595f9c3b64f)
 
 
-### 📌 :: 일정 대시보드 ::
+## 📌 :: 일정 대시보드 ::
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/1ded7f2a-c4f4-4cc1-b460-fbc943a67faa)
 <br>
 
-### 💾 ERD 구조
+## 💾 ERD 구조
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/7d126e13-dbc5-4737-91dc-82713c6c5be4)![image]
 <br>
   
-### 📌 :: 이미지 혹은 동영상 첨부 ::
+## 📌 :: 이미지 혹은 동영상 첨부 ::
 
 1. 관리자 페이지
    
