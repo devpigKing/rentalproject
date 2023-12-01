@@ -29,7 +29,7 @@
   
 ## 📱Demo ::
 
-🔍 관리자 페이지
+**🔍 관리자 페이지**
    
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/d3c4f47c-453d-43d5-a735-01a985bdce23)
 
@@ -37,7 +37,7 @@
 
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/a244d042-af4e-45d9-bb76-59a7ab9c6b59)
 
-💵 상품 게시판
+**💵 상품 게시판**
 
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/4c9a0365-d6c0-4e2e-b945-d70512f8a0a3)
 
@@ -60,7 +60,7 @@
 
 
 ## 프로젝트 컨벤션
----
+
 ### 스크럼 및 코어타임
 - 데일리 스크럼 AM 10시
 - 프로젝트 코어 타임 10 ~ 18
