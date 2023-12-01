@@ -49,7 +49,7 @@
 <br>
 
 ## 💾 ERD 구조
-![image](https://github.com/devpigKing/rentalproject/assets/137087678/7d126e13-dbc5-4737-91dc-82713c6c5be4)![image]
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/7d126e13-dbc5-4737-91dc-82713c6c5be4)
 <br>
   
 ## 📌 :: 이미지 혹은 동영상 첨부 ::
@@ -60,8 +60,17 @@
 
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/eee844d9-6083-436a-8762-2130768d0dd8)
 
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/a244d042-af4e-45d9-bb76-59a7ab9c6b59)
 
+2. 상품 게시
 
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/b3147d8b-0bc3-405a-9ad3-29719565b088)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/3c397441-2aef-4c79-b3fd-9f113734c0ca)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/e0a29f2c-6d90-4f9d-8cbf-5984e8103387)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/58eba514-26a0-4630-9e1f-d88fac778135)
 
 
 ## 샘플 코드 및 실행 방법
