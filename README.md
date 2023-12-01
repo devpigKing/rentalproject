@@ -15,7 +15,6 @@
 <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  ![image](https://github.com/devpigKing/rentalproject/assets/137087678/b63675f4-ccad-4152-b6be-6fb6748d4d6c)
 
 
 **Front-End**
