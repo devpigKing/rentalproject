@@ -1,4 +1,4 @@
-![image](https://github.com/devpigKing/rentalproject/assets/137087678/7d126e13-dbc5-4737-91dc-82713c6c5be4)![image](https://github.com/devpigKing/rentalproject/assets/137087678/119488af-c893-404e-aa70-d9c94633275e)
+
 
 **📌 :: PROJECT ::**
 - 경제적으로 여유가 많지 않은 자취생들에게 보증금과 소정의 대여료를 통해 가전 등의 제품을 빌려주는 "가전 제품 대여 플랫폼"입니다.
@@ -43,8 +43,7 @@
 
 
 **💾 ERD 구조**
-![image](https://github.com/devpigKing/rentalproject/assets/137087678/7bccdb78-180f-4a72-a346-5b3686e15d50)
-
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/7d126e13-dbc5-4737-91dc-82713c6c5be4)![image]
   
 **📌 :: 이미지 혹은 동영상 첨부 ::**
 
