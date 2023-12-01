@@ -52,7 +52,7 @@
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/7d126e13-dbc5-4737-91dc-82713c6c5be4)
 <br>
   
-## 📌 :: 이미지 혹은 동영상 첨부 ::
+## 📱Demo ::
 
 1. 관리자 페이지
    
@@ -62,7 +62,15 @@
 
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/a244d042-af4e-45d9-bb76-59a7ab9c6b59)
 
-2. 상품 게시
+2. 상품 게시판
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/4c9a0365-d6c0-4e2e-b945-d70512f8a0a3)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/fe2d308c-14e9-47ac-9549-4bd9c9d3c987)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/3143fe49-954c-4194-bcbd-6023d976bcea)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/1d17a45a-73bc-497f-9a91-5b59055d6354)
 
 ![image](https://github.com/devpigKing/rentalproject/assets/137087678/b3147d8b-0bc3-405a-9ad3-29719565b088)
 
@@ -76,7 +84,9 @@
 ## 샘플 코드 및 실행 방법
 
 
-## 코드 컨벤션
-## 관련 링크(커뮤니티)
-## Contribute 방법 설명
-## 라이선스 명시
+## 프로젝트 컨벤션
+---
+### 스크럼 및 코어타임
+- 데일리 스크럼 AM 10시
+- 프로젝트 코어 타임 10 ~ 18
+
