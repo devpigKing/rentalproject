@@ -1,33 +1,31 @@
-## 프로젝트
-세숫대여
-## 프로젝트 설명
-1인 가구들을 위한 가전 대여 프로젝트입니다
-## 기능
-- 예약 TBD
-- 대여 및 취소(환불) TBD
-- 문의 관련(상품 문의 및 1대1 문의, 문의 관리, 자주 묻는 질문) TBD
-- 자유게시판
-- 계정 관련(회원가입/로그인, 내 정보 수정, 회원 관리) TBD
-- 상품 관련(상품 후기 및 후기 관리, 상품 목록 조회) TBD
-- 공지사항 TBD
+📌 :: PROJECT - PLAN ::
+- 프로젝트 명칭 : 세숫대여
+- 개발 인원 : 5명(이동균, 최재호, 백세진, 윤다훈)
+- 개발 기간 : 2023년 9월 21일 ~ 2023년 10월 20일
+
+📌 :: 개발 환경 ::
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/3d8f9936-357a-4d28-8572-63ce47e70aae)
+
+📌 :: 사용 기술 ::
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/86123e10-2258-489f-a9c3-23321c1d371b)
+
+📌 :: 팀 구성 및 역할 ::
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/dae35041-0240-4e64-bafb-e609057c72db)
+
+📌 :: 수행절차 및 방법 ::
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/2954f1a1-30eb-47ac-8b8f-28056afbeda6)
+
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/c0d159c9-218d-4728-927e-c595f9c3b64f)
+
+
+📌 :: 일정 대시보 ::
+![image](https://github.com/devpigKing/rentalproject/assets/137087678/1ded7f2a-c4f4-4cc1-b460-fbc943a67faa)
 
   
 ## 이미지 혹은 동영상 첨부
 
-**0. ERD**
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b49645a-23d9-4fbe-be61-c74c9a2bc595/732e4501-b37d-4dd1-af34-8e4b82209e05/Untitled.png)
 
-**1. 상품 게시판 리스트**
-![KakaoTalk_20231020_151951778.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b49645a-23d9-4fbe-be61-c74c9a2bc595/c43f8aab-8666-40da-8e9d-075a8bcbc21a/KakaoTalk_20231020_151951778.jpg)
 
-**2. 상품 상세**
-![KakaoTalk_20231020_152337293_06.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b49645a-23d9-4fbe-be61-c74c9a2bc595/ffc394a7-d66a-48ec-acb4-d6835096162b/KakaoTalk_20231020_152337293_06.png)
-
-**3. 찜하기**
-![KakaoTalk_20231020_151953381.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b49645a-23d9-4fbe-be61-c74c9a2bc595/32f22774-6a6d-425a-b01b-8dc36a8ab741/KakaoTalk_20231020_151953381.jpg)
-
-**4. 상품 등록**
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b49645a-23d9-4fbe-be61-c74c9a2bc595/3fa8f904-2d75-4bcf-938e-249cfede3119/Untitled.png)
 
 
 
